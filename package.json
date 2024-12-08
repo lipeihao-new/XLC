@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tomi",
+  "license": "ISC",
+  "description": "修理厂内部使用系统，用来检索客户存放客户信息的excel表格",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
